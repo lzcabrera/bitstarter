@@ -1,0 +1,4 @@
+
+aws (dev): [ec2-50-17-116-27.compute-1.amazonaws.com](ec2-50-17-116-27.compute-1.amazonaws.com)
+heroku (staging): [http://lzcabrera-bitstarter-s-mooc.herokuapp.com/](http://lzcabrera-bitstarter-s-mooc.herokuapp.com/)
+heroku (production): [http://lzcabrera-bitstarter-mooc.herokuapp.com/](http://lzcabrera-bitstarter-mooc.herokuapp.com/)
